@@ -1,0 +1,32 @@
+*{
+        padding:10;
+    }
+    
+    .resetbutton{
+        height:50;
+        width:105;
+        background:rgba(0,0,0,0.6);
+        color:white;
+        font-size:25;
+    
+    }
+    
+    .bg{
+    background:linear-gradient(to bottom,#0229ea,#e5042d);
+    }
+    
+    .button{
+        height:50;
+        width:50;
+        background:rgba(0,0,0,0.6);
+        color:white;
+        font-size:25;
+        
+        }
+    
+    .text{  background-color:white;
+        height:50;
+        width:220;
+        font-size:20px;
+        border-radius:50px;
+    }
